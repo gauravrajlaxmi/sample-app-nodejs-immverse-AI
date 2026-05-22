@@ -1,0 +1,24 @@
+{
+  "name": "sample-application-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo 'Tests Passed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/issues"
+  },
+  "homepage": "https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
