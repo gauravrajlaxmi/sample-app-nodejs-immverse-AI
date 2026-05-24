@@ -66,6 +66,8 @@ cd sample-app-nodejs-immverse-AI
 ---
 
 # Step 1 — Install Packages Using Script
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%202026-05-24%20213822.png?raw=true" alt="">
+
 
 Give permission:
 
