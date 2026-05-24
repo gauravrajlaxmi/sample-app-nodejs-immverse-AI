@@ -450,7 +450,7 @@ Verify:
 ```bash
 kubectl get nodes
 ```
-
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%20(405).png?raw=true" alt="">
 ---
 
 # Step 8 — Deploy Application
