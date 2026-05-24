@@ -1,6 +1,7 @@
 # sample-app-nodejs-immverse-AI
 # 🚀 Node.js CI/CD Pipeline with Jenkins + Docker + AWS EKS + Monitoring
-screenshots/Screenshot (391).png
+
+
 
 Complete CI/CD deployment pipeline for a Node.js application using:
 
