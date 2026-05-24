@@ -2,3 +2,6 @@
 node_modules/
 
 scripts/minikube-linux-amd64
+scripts/aws/
+scripts/awscliv2.zip
+scripts/eksctl.tar.gz
