@@ -224,11 +224,16 @@ Output:
 
 ```text
 CI/CD Deployment Successful
+
+
 ```
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%202026-05-24%20214823.png?raw=true" alt="">
 
 ---
 
 # Step 4 — Jenkins Setup
+
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%202026-05-24%20214514.png?raw=true" alt="">
 
 Install Plugins:
 
@@ -415,7 +420,7 @@ kubectl rollout status deployment/sample-app
 
 }
 ```
-
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%202026-05-24%20215046.png?raw=true" alt="">
 ---
 
 # Step 7 — Create EKS Cluster
@@ -465,7 +470,9 @@ kubectl get svc
 ```
 
 ---
-<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%20(404).png" alt="">
+
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%202026-05-24%20214652.png?raw=true" alt="">
+
 # Step 9 — Install Monitoring
 
 Run:
