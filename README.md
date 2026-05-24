@@ -233,7 +233,7 @@ CI/CD Deployment Successful
 
 # Step 4 — Jenkins Setup
 
-<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%202026-05-24%20214514.png?raw=true" alt="">
+
 
 Install Plugins:
 
@@ -262,7 +262,7 @@ Manage Jenkins
 → Credentials
 → Global
 ```
-
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%202026-05-24%20214514.png?raw=true" alt="">
 Create:
 
 ### GitHub
