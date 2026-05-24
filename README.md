@@ -1,10 +1,14 @@
 # sample-app-nodejs-immverse-AI
 # 🚀 Node.js CI/CD Pipeline with Jenkins + Docker + AWS EKS + Monitoring'
 
+APPLICATION URL :
 http://a71401447269f47648d409b28debb7aa-1628446870.us-east-1.elb.amazonaws.com/
 
+GRAFANA URL :
 http://ac6f20ea48ccf47dc8af055c0adda28d-585402200.us-east-1.elb.amazonaws.com/
 
+
+JENKINS URL :
 http://98.81.191.63:8080/
 
 
