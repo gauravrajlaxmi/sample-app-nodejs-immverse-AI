@@ -463,7 +463,7 @@ kubectl get svc
 ```
 
 ---
-
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%20(404).png" alt="">
 # Step 9 — Install Monitoring
 
 Run:
