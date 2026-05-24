@@ -4,7 +4,7 @@ pipeline {
     environment {
         IMAGE="gauravrajlaxmi15/sample-app"
         AWS_DEFAULT_REGION="us-east-1"
-        CLUSTER_NAME="sample-cluster-cicd-AI"
+        CLUSTER_NAME="sample-cluster-cicd-AI-new"
     }
 
     stages {
