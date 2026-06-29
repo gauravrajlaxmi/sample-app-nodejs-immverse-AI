@@ -232,7 +232,8 @@ CI/CD Deployment Successful
 
 
 ```
-<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%202026-05-24%20214823.png?raw=true" alt="">
+<img src="https://github.com/gauravrajlaxmi/sample-app-nodejs-immverse-AI/blob/main/screenshots/Screenshot%20(412).png" alt="">
+
 
 ---
 
